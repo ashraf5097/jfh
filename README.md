@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# React with MAterial ui and tailwind css
+# React with Material ui and tailwind css
 
 ## Available Scripts
 
